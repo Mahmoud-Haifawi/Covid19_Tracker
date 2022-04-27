@@ -1,0 +1,15 @@
+C:\Users\User\Source\Repos\eyassbd01\termProject\termProject\bin\Debug\termProject.exe.config
+C:\Users\User\Source\Repos\eyassbd01\termProject\termProject\bin\Debug\termProject.exe
+C:\Users\User\Source\Repos\eyassbd01\termProject\termProject\bin\Debug\termProject.pdb
+C:\Users\User\Source\Repos\eyassbd01\termProject\termProject\bin\Debug\aa\termProject.resources.dll
+C:\Users\User\Source\Repos\eyassbd01\termProject\termProject\obj\Debug\termProject.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\eyassbd01\termProject\termProject\obj\Debug\termProject.home_screen.resources
+C:\Users\User\Source\Repos\eyassbd01\termProject\termProject\obj\Debug\termProject.Form2.resources
+C:\Users\User\Source\Repos\eyassbd01\termProject\termProject\obj\Debug\termProject.Properties.Resources.resources
+C:\Users\User\Source\Repos\eyassbd01\termProject\termProject\obj\Debug\termProject.Form2.aa.resources
+C:\Users\User\Source\Repos\eyassbd01\termProject\termProject\obj\Debug\termProject.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\eyassbd01\termProject\termProject\obj\Debug\termProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\eyassbd01\termProject\termProject\obj\Debug\aa\termProject.resources.dll
+C:\Users\User\Source\Repos\eyassbd01\termProject\termProject\obj\Debug\termProject.exe
+C:\Users\User\Source\Repos\eyassbd01\termProject\termProject\obj\Debug\termProject.pdb
+C:\Users\User\Source\Repos\eyassbd01\termProject\termProject\obj\Debug\termProject.Search.resources
